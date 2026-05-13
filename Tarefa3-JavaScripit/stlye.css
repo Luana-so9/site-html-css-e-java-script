@@ -1,0 +1,37 @@
+main img
+{
+    width: 300px;
+    border-radius: 5px;
+    display :flex;
+    text-align: center;
+    justify-self:center;
+}
+
+header h1 {
+    background-color: rgb(226, 24, 24);
+    justify-self: center;
+}
+    
+nav{
+     justify-self: center;
+}
+
+
+body{
+    background-color: aquamarine;
+}
+
+main{
+    text-align: center
+}
+
+nav{
+    background-color: aliceblue;
+}
+
+.vip {
+   
+}
+    
+
+ 
